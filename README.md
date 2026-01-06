@@ -9,4 +9,4 @@ Now that I am in my fourth year of the journey, I feel like I am fulfilling the 
 
 I recall a moment in my IO class, Ariel Pakes asked the class how many read the WSJ or FT. He saw almost no hands going up. Ariel joked that IO is perhaps a field that is closest to industry yet its best-trained students rarely pay attention to industry happenings. That comment stayed with me. This is how I feel about my own driftaway.
 
-This repository is my attempt to reconnect-—to practice noticing again, to think out loud about strategy as it unfolds in the world.
+This repository is my attempt to practice noticing again, to think out loud about strategy as it unfolds in the world.
