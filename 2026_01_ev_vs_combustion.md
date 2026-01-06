@@ -23,6 +23,6 @@ Obviously, confounding factors abound. China’s industrial policy like subsidie
 
 A further factor is the structure of China’s domestic market itself. Large, dense, and heterogeneous demand allows firms to experiment at scale, iterate rapidly, and fail cheaply. When early mistakes can be absorbed by sheer volume, firms can move down learning curves far faster than competitors operating in smaller or more fragmented markets.
 
-Like any theoretical attempts, here are some hypotheses I offer for testing: When industries are stable and modular, advantage accrues to firms that excel at incremental improvement, process optimization, and cumulative learning. History compounds. When industries undergo architectural shifts, where performance depends on tightly integrated systems rather than individual components—those same advantages can rapidly depreciate. Learning curves reset, incumbency weakens, and late entrants gain room to compete.
+Like any theoretical attempts, here are some hypotheses I offer for testing: When industries are stable and modular, advantage accrues to firms that excel at incremental improvement, process optimization, and cumulative learning. History compounds. When industries undergo architectural shifts, where performance depends on tightly integrated systems rather than individual components, those same advantages can rapidly depreciate. Learning curves reset, incumbency weakens, and late entrants gain room to compete.
 
 
