@@ -1,8 +1,3 @@
-`When industries are stable and modular, advantage accrues to firms that excel at incremental improvement, process optimization, and cumulative learning. History compounds.`
-
-`When industries undergo architectural shifts—where performance depends on tightly integrated systems rather than individual components—those same advantages can rapidly depreciate. Learning curves reset, incumbency weakens, and late entrants gain room to compete.`
-
-
 What caught my eye was WSJ reporting about a new form of tourism in China--touring factory floors. 
 
 <img width="808" height="923" alt="image" src="https://github.com/user-attachments/assets/1beb3669-75c9-4329-8fa4-ac4477928b8d" />
@@ -27,4 +22,9 @@ Now back to the quesiton why Chinese manufacturerers can catch up with and surpa
 Obviously, confounding factors abound. China’s industrial policy like subsidies, protected domestic markets, coordinated infrastructure investment can explain part of the observed speed of catch-up, and any serious account would be incomplete without it. But industrial policy alone cannot explain the pattern of catch-up. China has not advanced equally quickly across all complex manufacturing industries. Progress has been fastest in sectors undergoing architectural change, where products are being redefined and learning curves are being reset.
 
 A further factor is the structure of China’s domestic market itself. Large, dense, and heterogeneous demand allows firms to experiment at scale, iterate rapidly, and fail cheaply. When early mistakes can be absorbed by sheer volume, firms can move down learning curves far faster than competitors operating in smaller or more fragmented markets.
+
+`When industries are stable and modular, advantage accrues to firms that excel at incremental improvement, process optimization, and cumulative learning. History compounds.`
+
+`When industries undergo architectural shifts, where performance depends on tightly integrated systems rather than individual components—those same advantages can rapidly depreciate. Learning curves reset, incumbency weakens, and late entrants gain room to compete.`
+
 
